@@ -40,8 +40,5 @@ Windows:
 ```
 1. Download the Repository
 2. Extract the Repository on your Desktop
-3. Shift-Right Click on you Desktop
-4. Press "Open Powershell here"
-$ cd .\PastebinDownloader-master\
-$ python downloader.py
+3. Double Click on downlaoder.py
 ```
