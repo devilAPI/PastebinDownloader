@@ -3,7 +3,7 @@ The best Text-File Downloader!
 
 ## 📑Table of contents
 * [General info](#ℹ%EF%B8%8F-general-info)
-* [Technologies](#technologies)
+* [Compatibility](#compatibility)
 * [Setup](#setup)
 
 ## ℹ️ General info
