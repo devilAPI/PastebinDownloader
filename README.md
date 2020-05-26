@@ -5,6 +5,7 @@ The best Text-File Downloader!
 * [General info](#ℹ%EF%B8%8F-general-info)
 * [Compatibility](#compatibility)
 * [Setup](#setup)
+* [Dependencies](#dependencies)
 
 ## ℹ️ General info
 This is a multi-functional Downloader for MANY paste sites! Including hastebin, github and pastebin!
@@ -19,11 +20,14 @@ This is a multi-functional Downloader for MANY paste sites! Including hastebin, 
 - Processors: Intel Atom® processor or Intel® Core™ i3 processor.
 - Disk space: 1 GB.
 - Operating systems: Windows* 7 or later, macOS, and Linux.
+
+## Dependencies
 - Python 3.6+
-	
+- "requests" module
+
 ## Setup
 To run this project, install it locally using python:
-
+Make Sure you have all dependencies installed!
 
 Linux: 
 ```
@@ -39,5 +43,5 @@ Windows:
 3. Shift-Right Click on you Desktop
 4. Press "Open Powershell here"
 $ cd .\PastebinDownloader-master\
-$ python3 downloader.py
+$ python downloader.py
 ```
