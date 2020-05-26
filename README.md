@@ -4,8 +4,8 @@ The best Text-File Downloader!
 ## 📑Table of contents
 * [General info](#ℹ%EF%B8%8F-general-info)
 * [Compatibility](#compatibility)
-* [Setup](#setup)
 * [Dependencies](#dependencies)
+* [Setup](#setup)
 
 ## ℹ️ General info
 This is a multi-functional Downloader for MANY paste sites! Including hastebin, github and pastebin!
