@@ -29,14 +29,14 @@ This is a multi-functional Downloader for MANY paste sites! Including hastebin, 
 To run this project, install it locally using python:
 Make Sure you have all dependencies installed!
 
-Linux: 
+#### Linux: 
 ```
 $ git clone https://github.com/devilAPI/PastebinDownloader/
 $ cd ../PastebinDownloader
 $ python3 downloader.py
 ```
 
-Windows: 
+#### Windows: 
 ```
 1. Click on "Releases"
 2. Click on "sownlaoder.py"
