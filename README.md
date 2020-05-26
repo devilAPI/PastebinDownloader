@@ -38,7 +38,8 @@ $ python3 downloader.py
 
 Windows: 
 ```
-1. Download the Repository
-2. Extract the Repository on your Desktop
-3. Double Click on downlaoder.py
+1. Click on "Releases"
+2. Click on "sownlaoder.py"
+3. Go to your Downloads Folder
+4. Double Click on downlaoder.py
 ```
