@@ -27,7 +27,7 @@ $ git clone https://github.com/devilAPI/PastebinDownloader/
 $ cd ../PastebinDownloader
 $ python3 downloader.py
 ```
-**Windows: **
+**Windows:**
 ```shell
 1. Click on "Releases"
 2. Click on "sownlaoder.py"
