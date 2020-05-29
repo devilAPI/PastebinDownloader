@@ -8,7 +8,7 @@ The best Text-File Downloader!
 * [Setup](#setup)
 ## ℹ️ General info
 This is a multi-functional Downloader for MANY paste sites! Including hastebin, github and pastebin!
-## ⛔How do I know it dosent install malware or unwanted Programs?
+## ⛔Malware info
 🐱 👓
 * The complete Program is open source, so you can look in the code. ✅
 ## 👉Compatibility
