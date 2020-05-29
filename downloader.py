@@ -26,4 +26,3 @@ f = open(f'{filename}.txt', 'a+')
 f.write(r.text)
 print(f"Text file {filename}.txt has been made!")
 input("Press Enter to continue")
-exit
