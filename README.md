@@ -1,3 +1,4 @@
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/3835f97ae48544bd8ccabd3b5503130b)](https://www.codacy.com/manual/devilAPI/PastebinDownloader?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=devilAPI/PastebinDownloader&amp;utm_campaign=Badge_Grade)
 # PastebinDownloader
 The best Text-File Downloader!
 
@@ -29,14 +30,14 @@ This is a multi-functional Downloader for MANY paste sites! Including hastebin, 
 To run this project, install it locally using python:
 Make Sure you have all dependencies installed!
 
-#### Linux: 
+**Linux:** 
 ```
 $ git clone https://github.com/devilAPI/PastebinDownloader/
 $ cd ../PastebinDownloader
 $ python3 downloader.py
 ```
 
-#### Windows: 
+**Windows: **
 ```
 1. Click on "Releases"
 2. Click on "sownlaoder.py"
