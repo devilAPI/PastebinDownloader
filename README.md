@@ -10,7 +10,7 @@ The best Text-File Downloader!
 This is a multi-functional Downloader for MANY paste sites! Including hastebin, github and pastebin!
 ## ⛔Malware info
 🐱 👓
-*      The complete Program is open source, so you can look in the code. ✅
+*   The complete Program is open source, so you can look in the code. ✅
 ## 👉Compatibility
 *   Processors: Intel Atom® processor or Intel® Core™ i3 processor.
 *   Disk space: 1 GB.
