@@ -2,22 +2,22 @@
 # PastebinDownloader
 The best Text-File Downloader!
 ## 📑Table of contents
-  *   [General info](#ℹ%EF%B8%8F-general-info)
-*     [Compatibility](#compatibility)
-*     [Dependencies](#dependencies)
-*     [Setup](#setup)
+  *  [General info](#ℹ%EF%B8%8F-general-info)
+  *  [Compatibility](#compatibility) 
+  *  [Dependencies](#dependencies)
+  *  [Setup](#setup)
 ## ℹ️ General info
 This is a multi-functional Downloader for MANY paste sites! Including hastebin, github and pastebin!
 ## ⛔Malware info
 🐱 👓
-*     The complete Program is open source, so you can look in the code. ✅
+  *     The complete Program is open source, so you can look in the code. ✅
 ## 👉Compatibility
-*     Processors: Intel Atom® processor or Intel® Core™ i3 processor.
-*     Disk space: 1 GB.
-*     Operating systems: Windows* 7 or later, macOS, and Linux.
+  *  Processors: Intel Atom® processor or Intel® Core™ i3 processor.
+  *  Disk space: 1 GB.
+  *  Operating systems: Windows* 7 or later, macOS, and Linux.
 ## Dependencies
-*     Python 3.6+
-*    "requests" module
+  *  Python 3.6+
+  *  "requests" module
 ## Setup
 To run this project, install it locally using python:
 Make Sure you have all dependencies installed!
